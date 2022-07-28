@@ -1,0 +1,10 @@
+[
+  {
+    "participants": ["Student", "Ram"],
+    "id": "1"
+  },
+  {
+    "participants": ["Student", "Shyam"],
+    "id": "2"
+  }
+]
