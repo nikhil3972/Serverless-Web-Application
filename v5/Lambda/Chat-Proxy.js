@@ -5,7 +5,7 @@ var AWS = require('aws-sdk');
 var S3 = new AWS.S3();
 var dynamo = new AWS.DynamoDB();
 
-var bucket = '<your bucket name>';
+var bucket = 'serverless-web-application-nikhil';
 
 exports.handler = function (event, context, callback) {
 
